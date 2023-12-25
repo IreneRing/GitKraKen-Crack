@@ -2,7 +2,7 @@
 GitKraKen8.2.0-9.x的破解使用
 
 # 詳細使用文檔
-- https://github.com/wanZzz6/Modules-Learn/blob/master/%E6%8A%80%E6%9C%AF/Gitkraken%20%E6%9C%80%E6%96%B0%E7%89%88v9.x%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B.md
+[gitkraken破解文檔](https://github.com/wanZzz6/Modules-Learn/blob/master/%E6%8A%80%E6%9C%AF/Gitkraken%20%E6%9C%80%E6%96%B0%E7%89%88v9.x%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B.md)
 
 ## 破解要求环境
 - Node.js Version>=12 LTS

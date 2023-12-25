@@ -1,11 +1,8 @@
 # GitKraKen-Crack
 GitKraKen8.2.0-9.x的破解使用
 
-# 詳細使用文檔
+## 詳細使用文檔
 [gitkraken破解文檔](https://github.com/wanZzz6/Modules-Learn/blob/master/%E6%8A%80%E6%9C%AF/Gitkraken%20%E6%9C%80%E6%96%B0%E7%89%88v9.x%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B.md)
-
-# 漢化
-[gitkraken漢化](https://github.com/ZhanPhty/GitKraken-zh-CN)
 
 ## 破解要求环境
 - Node.js Version>=12 LTS
@@ -33,4 +30,8 @@ GitKraKen8.2.0-9.x的破解使用
 > 或者，直接在AppData/Local/gitkraken目录下，将update.exe删掉，也可禁止gitkraken自动更新。  
 
 ### 从软件本体启动而不是update或安装包
-在AppData/Local/gitkraken/app-9.x/目录下的gitkraken.exe才是真正的客户端本体。  
+在AppData/Local/gitkraken/app-9.x/目录下的gitkraken.exe才是真正的客户端本体。
+
+
+## 漢化
+[gitkraken漢化](https://github.com/ZhanPhty/GitKraken-zh-CN)
